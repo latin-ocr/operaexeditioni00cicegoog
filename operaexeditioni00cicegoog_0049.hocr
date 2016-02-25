@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaexeditioni00cicegoog_0049.png"; bbox 0 0 631 952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 107 469 141">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 107 469 141">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 107 469 141; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 461 107 469 111; x_wconf 48' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_2' title='bbox 268 110 422 141; x_wconf 43' lang='lat' dir='ltr'>{fia-vu</span> <span class='ocrx_word' id='word_1_3' title='bbox 225 107 261 125; x_wconf 64' lang='grc' dir='ltr'>.Ρὲ</span> <span class='ocrx_word' id='word_1_4' title='bbox 199 113 218 125; x_wconf 61' lang='grc' dir='ltr'>,ε</span> <span class='ocrx_word' id='word_1_5' title='bbox 153 113 187 127; x_wconf 71' lang='grc' dir='ltr'>Ξῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 71 425 93">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 153 71 425 93">
+     <span class='ocr_line' id='line_1_2' title="bbox 153 71 425 93; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 342 71 425 92; x_wconf 25' lang='lat' dir='ltr'>,stu-effla*</span> <span class='ocrx_word' id='word_1_7' title='bbox 246 78 336 93; x_wconf 67' lang='grc' dir='ltr'>ἒξ</span> <span class='ocrx_word' id='word_1_8' title='bbox 213 79 239 93; x_wconf 68' lang='grc' dir='ltr'>ἓ</span> <span class='ocrx_word' id='word_1_9' title='bbox 153 81 170 92; x_wconf 68' lang='lat'>8</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
